@@ -7,7 +7,7 @@ I love to taste scotch or burbon whisky🥃
 
 ![Kongbuhaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongbuhaja&show_icons=true&theme=radical)
   
-## Skills 
+## ⌨️ Skills 
 ### Languages & Framework
 <img src="https://img.shields.io/badge/Python-FECC00?stype=flat-square&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C++-FF0000?stype=flat-square&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/ROS-FECC00?stype=flat-square&logo=ROS&logoColor=22314E"/> <img src="https://img.shields.io/badge/TensorFlow-40AEF0?stype=flat-square&logo=TensorFlow&logoColor=FF6F00"/> 
   
