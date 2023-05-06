@@ -4,4 +4,4 @@
   
 ## Skills 
 <img src="https://img.shields.io/badge/Python-3776AB?stype=flat-square&logo=Python&logoColor=yellow"/>
-
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?stype=flat-square&logo=TensorFlow&logoColor=orange"/>
