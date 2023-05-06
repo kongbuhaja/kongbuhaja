@@ -5,7 +5,7 @@ I enjoy to implement computer vision machine learning model. 📷
 
 I love to taste scotch or burbon whisky🥃
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongbuhaja&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=kongbuhaja&show_icons=true&theme=radical)
   
 ## Skills 
 ### Languages & Framework
