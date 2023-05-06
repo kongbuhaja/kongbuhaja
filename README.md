@@ -4,4 +4,4 @@
   
 ## Skills 
 ### Languages & Framework
-<img src="https://img.shields.io/badge/Python-FECC00?stype=flat-square&logo=Python&logoColor=3776AB"/><img src="https://img.shields.io/badge/TensorFlow-000000?stype=flat-square&logo=TensorFlow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Python-FECC00?stype=flat-square&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/TensorFlow-000000?stype=flat-square&logo=TensorFlow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/TensorFlow-000000?stype=flat-square&logo=Git&logoColor=FF6F00"/>
