@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://find-knowledge.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-A100FF?style=flat-square&logo=Tistory&logoColor=000000"/> <img src="https://img.shields.io/badge/pcar530@gmail.com-A100FF?style=flat-square&logo=Gmail&logoColor=EA4335"/>
+<a href="https://find-knowledge.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/pcar530@gmail.com-A100FF?style=flat-square&logo=Gmail&logoColor=EA4335"/>
   
 ## Skills 
 ### Languages & Framework
