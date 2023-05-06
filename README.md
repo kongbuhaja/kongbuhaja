@@ -4,7 +4,7 @@
   
 ## Skills 
 ### Languages & Framework
-<img src="https://img.shields.io/badge/Python-FECC00?stype=flat-square&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C++-000000?stype=flat-square&logo=cpluspluslogoColor=00599C"/> <img src="https://img.shields.io/badge/ROS-000000?stype=flat-square&logo=ROS&logoColor=22314E"/> <img src="https://img.shields.io/badge/TensorFlow-000000?stype=flat-square&logo=TensorFlow&logoColor=FF6F00"/> 
+<img src="https://img.shields.io/badge/Python-FECC00?stype=flat-square&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C++-000000?stype=flat-square&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/ROS-000000?stype=flat-square&logo=ROS&logoColor=22314E"/> <img src="https://img.shields.io/badge/TensorFlow-000000?stype=flat-square&logo=TensorFlow&logoColor=FF6F00"/> 
   
 ### Environment
 <img src="https://img.shields.io/badge/Linux-yellow?stype=flat-square&logo=Linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Anaconda-000000?stype=flat-square&logo=Anaconda&logoColor=44A833"/> <img src="https://img.shields.io/badge/Docker-yellow?stype=flat-square&logo=Docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/VScode-yellow?stype=flat-square&logo=Visual Studio Code&logoColor=007ACC"/> 
