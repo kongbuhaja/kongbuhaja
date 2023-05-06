@@ -1,4 +1,4 @@
-<a href="https://find-knowledge.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/pcar530@gmail.com-EF2D5E?style=flat-square&logo=Gmail&logoColor=EA4335"/>
+<a href="https://find-knowledge.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/pcar530@gmail.com-EF2D5E?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
 
 👋 Hi there! I'm **machine learning & computer vision developer**. 🤖  
 I enjoy to implement computer vision machine learning model. 📷  
